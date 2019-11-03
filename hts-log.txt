@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 03 Nov 2019 20:44:27 at https://xcutieepiee.github.io/JennyPremium/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://xcutieepiee.github.io/JennyPremium/ -O1 "C:\Users\user\Desktop\scam\website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:44:49	Error: 	"Not Found" (404) at link https://xcutieepiee.github.io/cdn.glitch.com/8d5291bf-2604-434f-acc9-2913af764cbf/background.jpg (from https://xcutieepiee.github.io/JennyPremium/main.css)
+20:44:49	Error: 	"Not Found" (404) at link https://xcutieepiee.github.io/JennyPremium/js/now-ui-kit.min.js (from https://xcutieepiee.github.io/JennyPremium/cmds.html)
+20:44:49	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/619955470123270309/a_a5f09a0e83952c4b635eafd763467306.gif?size=1024 (from https://xcutieepiee.github.io/JennyPremium/about.html)
+20:44:49	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/629029131517952000/a_0b8b29d5fe590b131b36c6613464c055.gif (from https://xcutieepiee.github.io/JennyPremium/about.html)
+20:44:49	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/614270633274245141/404f61365a90176759e497cac7c44caf.png?size=2048 (from https://xcutieepiee.github.io/JennyPremium/about.html)
+20:44:49	Error: 	"Forbidden" (403) at link https://cdn.discordapp.com/attachments/637671669078425611/639919237066129408/rrr.gif?size=1024 (from https://xcutieepiee.github.io/JennyPremium/about.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 22 seconds : 23 links scanned, 16 files written (3943278 bytes overall) [3524816 bytes received at 160218 bytes/sec], 634824 bytes transferred using HTTP compression in 13 files, ratio 27%, 2.5 requests per connection
+(6 errors, 0 warnings, 0 messages)
